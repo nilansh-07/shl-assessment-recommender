@@ -6,7 +6,7 @@ An enterprise-grade Generative AI–powered web application that converts natura
 
 ## 🚀 Live Demo & Documentation
 
-- **Live Demo:** https://demo.yourdomain.com  
+- **Live Demo:** [SHL Assessment Recommender](https://shl-assessment-recommender-system.streamlit.app/) 
 - **API Documentation (Swagger UI):** https://api.yourdomain.com/docs  
 
 ---
